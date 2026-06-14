@@ -16,18 +16,51 @@
 
 | 🚧 Project | 📝 Description | ⚙️ Tech Stack |
 |-----------|----------------|---------------|
+| [📊 SmartSales](https://github.com/Yasir-Zafar/SmartSales) | AI-powered sales intelligence — predictions, insights, full-stack | `Node.js`, `React`, `Python`, `ML` |
 | [🛒 POS System](https://github.com/Yasir-Zafar/Pos) | Makes managing small business sales easy-peasy | `C++`, `Qt`, `SQLite` |
+| [🎓 Coursepedia](https://github.com/Yasir-Zafar/Coursepedia) | Solves the uni course registration mess | `Spring Boot`, `PostgreSQL`, `Maven` |
+| [🍽️ CookMate](https://github.com/Yasir-Zafar/CookMate) | Manages your pantry + suggests recipes like magic | `React`, `Node.js`, `SQL Server` |
+| [⚡ Power Scheduler](https://github.com/razaalirizvi4/SRE-ElectricityMngSys) | Automates power usage, saves bills | `WinForms`, `SQLite` |
 | [👾 Alien Invaders](https://github.com/Yasir-Zafar/alien_invaders) | Classic arcade clone with a modern punch | `SFML`, `CMake` |
 | [🍌 Banana Bonanza](https://github.com/Yasir-Zafar/Unity-Banana-Bonanza) | Hyper-casual Unity game – bananas, chaos, fun! | `Unity`, `C#` |
-| [⚡ Power Scheduler](https://github.com/razaalirizvi4/SRE-ElectricityMngSys) | Automates power usage, saves bills | `WinForms`, `SQLite` |
-| [🎓 Coursepedia](https://github.com/Yasir-Zafar/Coursepedia) | Solves the uni course registration mess | `Spring Boot`, `Postgres`, `Maven` |
-| [🍽️ CookMate](https://github.com/Yasir-Zafar/CookMate) | Manages your pantry + suggests recipes like magic | `React`, `Node.js`, `SQL Server` |
 
 ---
 
 ## 💻 Tech Stack
 
-<p align="center"> <!-- Languages --> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <!-- Frameworks & Libraries --> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/> <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/> <img src="https://img.shields.io/badge/SFML-8CC84B?style=for-the-badge&logo=sfml&logoColor=white"/> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> <img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white"/> <!-- Databases --> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> <!-- Tools --> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </p>
+<p align="center">
+
+<!-- Languages -->
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<!-- Frameworks & Libraries -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/SFML-8CC84B?style=for-the-badge&logo=sfml&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+<img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white"/>
+
+<!-- Databases -->
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
 
 ---
 
@@ -42,9 +75,10 @@
 
 ## ✍️ Currently Learning
 
-- Advanced Javascript 🔧  
-- Software Design Theory 🎮  
-- React Hooks & State Management ⚛️  
+- Advanced JavaScript 🔧
+- React Hooks & State Management ⚛️
+- Machine Learning & AI integration 🤖
+- Software Design Theory 📐
 
 ---
 
@@ -67,5 +101,4 @@
 
 ---
 
-> 🧨 “I have a dollar” – Yasir Z.
-
+> 🧨 "I have a dollar" – Yasir Z.
