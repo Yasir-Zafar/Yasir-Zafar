@@ -1,104 +1,164 @@
-<!-- Yasir-Zafar/README.md -->
+<div align="center">
 
-<h1 align="center">Hey there! I'm Yasir 👋</h1>
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3000&pause=900&color=FABD2F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yasir;ML+%C2%B7+Full-Stack+%C2%B7+Systems;NixOS+enjoyer" alt="Hey, I'm Yasir" />
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&center=true&vCenter=true&width=435&lines=Software+Engineer+in+the+Making;Web+Dev+%F0%9F%92%BB;Full+Stack+Builder+%F0%9F%93%A1;Code+%E2%9D%A4%EF%B8%8F+Design+%E2%9D%A4%EF%B8%8F+Gaming" alt="Typing SVG" />
-</p>
+**Software Engineering @ FAST NUCES Lahore** · building ML pipelines, full-stack apps, and an over-engineered Linux desktop
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQxdmVvc3U0eDJxNG5rYml3cnFlZThvdWdjcjN4MnpqOG5qZmE5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eElgvISNmerUfWrDFv/giphy.gif"/>
-</p>
+<br />
 
----
+<a href="mailto:yasirzafar720@gmail.com"><img src="https://img.shields.io/badge/Email-282828?style=for-the-badge&logo=gmail&logoColor=fb4934" /></a>
+<a href="https://www.linkedin.com/in/yasir-zafar-13385a247"><img src="https://img.shields.io/badge/LinkedIn-282828?style=for-the-badge&logo=linkedin&logoColor=83a598" /></a>
+<img src="https://komarev.com/ghpvc/?username=Yasir-Zafar&style=for-the-badge&color=98971a&label=views&labelColor=282828" />
 
-## 🚀 Projects That Actually Do Stuff
-
-| 🚧 Project | 📝 Description | ⚙️ Tech Stack |
-|-----------|----------------|---------------|
-| [📊 SmartSales](https://github.com/Yasir-Zafar/SmartSales) | AI-powered sales intelligence — predictions, insights, full-stack | `Node.js`, `React`, `Python`, `ML` |
-| [🛒 POS System](https://github.com/Yasir-Zafar/Pos) | Makes managing small business sales easy-peasy | `C++`, `Qt`, `SQLite` |
-| [🎓 Coursepedia](https://github.com/Yasir-Zafar/Coursepedia) | Solves the uni course registration mess | `Spring Boot`, `PostgreSQL`, `Maven` |
-| [🍽️ CookMate](https://github.com/Yasir-Zafar/CookMate) | Manages your pantry + suggests recipes like magic | `React`, `Node.js`, `SQL Server` |
-| [⚡ Power Scheduler](https://github.com/razaalirizvi4/SRE-ElectricityMngSys) | Automates power usage, saves bills | `WinForms`, `SQLite` |
-| [👾 Alien Invaders](https://github.com/Yasir-Zafar/alien_invaders) | Classic arcade clone with a modern punch | `SFML`, `CMake` |
-| [🍌 Banana Bonanza](https://github.com/Yasir-Zafar/Unity-Banana-Bonanza) | Hyper-casual Unity game – bananas, chaos, fun! | `Unity`, `C#` |
+</div>
 
 ---
 
-## 💻 Tech Stack
+### Featured work
 
-<p align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+#### [SmartSales](https://github.com/Yasir-Zafar/SmartSales)
+Sales intelligence for small shops. Upload a daily CSV and get 5-day per-product demand forecasts (LSTM + seasonal ensemble), anomaly alerts, RFM customer tiers and restock guidance, across four role-scoped dashboards.
 
-<!-- Frameworks & Libraries -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-<img src="https://img.shields.io/badge/SFML-8CC84B?style=for-the-badge&logo=sfml&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/WinForms-512BD4?style=for-the-badge&logo=windows&logoColor=white"/>
+`React` `Express` `FastAPI` `PyTorch` `Postgres`
 
-<!-- Databases -->
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
+</td>
+<td width="50%" valign="top">
 
-<!-- Tools -->
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+#### [CheXpert Uncertainty Policies](https://github.com/Yasir-Zafar/chexpert-uncertainty-policies)
+Controlled study of six ways to resolve CheXpert's *uncertain* labels (zeros, ones, ignore, multiclass, label smoothing, MC Dropout) on a fixed DenseNet-121. Runs train on Kaggle GPUs and push results to per-run git branches.
 
-</p>
+`PyTorch` `DenseNet-121` `Kaggle` `Nix`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Collabra](https://github.com/Yasir-Zafar/Collabra)
+Real-time collaborative whiteboard with per-file edit locks, owner/editor/viewer roles, multi-page projects, SVG/ZIP export and Google Drive sync.
+
+`React` `Socket.io` `Fabric.js` `Postgres` `OAuth`
+
+</td>
+<td width="50%" valign="top">
+
+#### [InkTrace](https://github.com/Yasir-Zafar/InkTrace)
+Leak tracing with invisible watermarks: every recipient's copy carries a zero-width-Unicode code signed with HMAC-SHA256, so a leaked copy points back to its source and forged codes are flagged.
+
+`Python` `HMAC` `SQLite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [Compass](https://github.com/Yasir-Zafar/Compass)
+Guided, multi-step ASD screening web app backed by a Python inference service running trained models.
+
+`React` `Express` `FastAPI` `scikit-learn`
+
+</td>
+<td width="50%" valign="top">
+
+#### [Tilted](https://github.com/Yasir-Zafar/Tilted)
+Hate-speech and toxicity detection comparing BERT, BiLSTM-attention and TextCNN, served through a low-latency FastAPI endpoint.
+
+`Transformers` `PyTorch` `FastAPI` `Docker`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+#### [i-hate-devops](https://github.com/Yasir-Zafar/i-hate-devops)
+My CV served two ways from one private S3 bucket: Apache on EC2 with a systemd sync timer, and a Python Lambda behind a function URL, all with least-privilege IAM roles. *(Despite the name, it works.)*
+
+`AWS` `S3` `EC2` `Lambda` `IAM` `Bash`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>Earlier projects</b></summary>
+<br />
+
+- [POS System](https://github.com/Yasir-Zafar/Pos): point-of-sale for small businesses · `C++` `Qt` `SQLite`
+- [CookMate](https://github.com/Eishal-Fatima-Qadri/CookMate): pantry tracker with recipe suggestions · `React` `Node.js`
+- [Alien Invaders](https://github.com/Yasir-Zafar/alien_invaders): arcade shooter · `C++` `SFML`
+- [Banana Bonanza](https://github.com/Yasir-Zafar/Unity-Banana-Bonanza): hyper-casual game · `Unity` `C#`
+
+</details>
 
 ---
 
-## 📈 Stats, Because Why Not?
+### nixdots
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasir-Zafar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Zafar&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+<a href="https://github.com/Yasir-Zafar/nixdots"><img src="https://raw.githubusercontent.com/Yasir-Zafar/nixdots/main/assets/desktop.png" alt="nixdots desktop" width="100%" /></a>
 
----
-
-## ✍️ Currently Learning
-
-- Advanced JavaScript 🔧
-- React Hooks & State Management ⚛️
-- Machine Learning & AI integration 🤖
-- Software Design Theory 📐
+My daily driver, fully declarative: a flake-based **NixOS + Home Manager** setup on the **niri** scrollable-tiling compositor, with a Noctalia bar, Ghostty, a nixvim Neovim config, and **Gruvbox** themed everywhere through Stylix. [**Yasir-Zafar/nixdots**](https://github.com/Yasir-Zafar/nixdots)
 
 ---
 
-## 🧠 About Me
+### Toolbox
 
-- 🧑‍🎓 Studying Software Engineering at FAST NUCES (Class of 2027)
-- 🎯 I build useful tools, not just school assignments
-- 🎮 I make games for fun, but build systems for impact
-- 🎤 I lead teams, present ideas, and ship real projects
+<div align="center">
+
+**Languages**<br />
+<img src="https://img.shields.io/badge/Python-282828?style=flat-square&logo=python&logoColor=fabd2f" />
+<img src="https://img.shields.io/badge/TypeScript%20%2F%20JS-282828?style=flat-square&logo=javascript&logoColor=fabd2f" />
+<img src="https://img.shields.io/badge/C++-282828?style=flat-square&logo=cplusplus&logoColor=83a598" />
+<img src="https://img.shields.io/badge/C%23-282828?style=flat-square&logo=dotnet&logoColor=d3869b" />
+<img src="https://img.shields.io/badge/SQL-282828?style=flat-square&logo=postgresql&logoColor=83a598" />
+<img src="https://img.shields.io/badge/Nix-282828?style=flat-square&logo=nixos&logoColor=83a598" />
+<img src="https://img.shields.io/badge/Bash-282828?style=flat-square&logo=gnubash&logoColor=b8bb26" />
+
+**ML & Data**<br />
+<img src="https://img.shields.io/badge/PyTorch-282828?style=flat-square&logo=pytorch&logoColor=fe8019" />
+<img src="https://img.shields.io/badge/Transformers-282828?style=flat-square&logo=huggingface&logoColor=fabd2f" />
+<img src="https://img.shields.io/badge/scikit--learn-282828?style=flat-square&logo=scikitlearn&logoColor=fe8019" />
+<img src="https://img.shields.io/badge/pandas-282828?style=flat-square&logo=pandas&logoColor=d3869b" />
+<img src="https://img.shields.io/badge/Jupyter-282828?style=flat-square&logo=jupyter&logoColor=fe8019" />
+<img src="https://img.shields.io/badge/Kaggle-282828?style=flat-square&logo=kaggle&logoColor=83a598" />
+
+**Web**<br />
+<img src="https://img.shields.io/badge/React-282828?style=flat-square&logo=react&logoColor=83a598" />
+<img src="https://img.shields.io/badge/Node.js-282828?style=flat-square&logo=nodedotjs&logoColor=b8bb26" />
+<img src="https://img.shields.io/badge/Express-282828?style=flat-square&logo=express&logoColor=ebdbb2" />
+<img src="https://img.shields.io/badge/FastAPI-282828?style=flat-square&logo=fastapi&logoColor=8ec07c" />
+<img src="https://img.shields.io/badge/Socket.io-282828?style=flat-square&logo=socketdotio&logoColor=ebdbb2" />
+<img src="https://img.shields.io/badge/PostgreSQL-282828?style=flat-square&logo=postgresql&logoColor=83a598" />
+<img src="https://img.shields.io/badge/Supabase-282828?style=flat-square&logo=supabase&logoColor=b8bb26" />
+
+**Infra & Tools**<br />
+<img src="https://img.shields.io/badge/NixOS-282828?style=flat-square&logo=nixos&logoColor=83a598" />
+<img src="https://img.shields.io/badge/Docker-282828?style=flat-square&logo=docker&logoColor=83a598" />
+<img src="https://img.shields.io/badge/AWS-282828?style=flat-square&logo=amazonwebservices&logoColor=fe8019" />
+<img src="https://img.shields.io/badge/GitHub_Actions-282828?style=flat-square&logo=githubactions&logoColor=83a598" />
+<img src="https://img.shields.io/badge/Git-282828?style=flat-square&logo=git&logoColor=fb4934" />
+<img src="https://img.shields.io/badge/Neovim-282828?style=flat-square&logo=neovim&logoColor=b8bb26" />
+
+</div>
 
 ---
 
-## 📬 Let's Connect
+### Stats
 
-<p align="center">
-  <a href="mailto:yasirzafar720@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/yasir-zafar-13385a247"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/Yasir-Zafar"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yasir-Zafar&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Zafar&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
+<br />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yasir-Zafar&bg_color=282828&color=ebdbb2&line=fabd2f&point=fe8019&area=true&area_color=d79921&hide_border=true" />
+</div>
 
 ---
 
-> 🧨 "I have a dollar" – Yasir Z.
+<div align="center">
+
+> *"I have a dollar."* — Yasir Z.
+
+</div>
