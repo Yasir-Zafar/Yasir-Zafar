@@ -2,6 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=28&duration=3000&pause=900&color=FABD2F&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Yasir;ML+%C2%B7+Full-Stack+%C2%B7+Systems;NixOS+enjoyer" alt="Hey, I'm Yasir" />
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDQxdmVvc3U0eDJxNG5rYml3cnFlZThvdWdjcjN4MnpqOG5qZmE5NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/eElgvISNmerUfWrDFv/giphy.gif" />
+</p>
+
 **Software Engineering @ FAST NUCES Lahore** · building ML pipelines, full-stack apps, and an over-engineered Linux desktop
 
 <br />
@@ -149,10 +153,10 @@ My daily driver, fully declarative: a flake-based **NixOS + Home Manager** setup
 ### Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yasir-Zafar&show_icons=true&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasir-Zafar&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" />
-<br />
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Yasir-Zafar&bg_color=282828&color=ebdbb2&line=fabd2f&point=fe8019&area=true&area_color=d79921&hide_border=true" />
+<img height="170" src="./profile/stats.svg" alt="GitHub stats" />
+<img height="170" src="./profile/top-langs.svg" alt="Top languages" />
+<br /><br />
+<img width="100%" src="./profile/snake.svg" alt="Contribution snake" />
 </div>
 
 ---
